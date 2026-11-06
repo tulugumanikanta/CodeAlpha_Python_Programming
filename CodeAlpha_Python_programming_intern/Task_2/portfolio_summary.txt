@@ -1,0 +1,12 @@
+=========== Portfolio Summary ===========
+Stock: AAPL
+Quantity: 10
+Price per share: 180
+Investment value: 1800
+
+Stock: GOOGL
+Quantity: 6
+Price per share: 150
+Investment value: 900
+
+Total value: 2700
